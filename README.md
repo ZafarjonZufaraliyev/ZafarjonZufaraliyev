@@ -1,43 +1,32 @@
-<h1 align="center">Assalomu alaykum! Men Zafarjon Zufaraliyevman 👋</h1>
+<h1 align="center">Assalomu alaykum, Men Zafarjon Zufaraliyev 👋</h1>
 
 <p align="center">
-  🌱 Izlanishda davom etuvchi dasturchi | 🖥️ Vue.js ixlosmandi | 🚀 Texnologiya orzularimning qanoti
+  🌱 Dasturlash yo‘lida izlanar bir ijodkor | 🚀 Texnologiyaga dilband | 💡 Yangi g‘oyalar sohibi
 </p>
 
 ---
 
-## 🚀 Eng sevimli loyihalarim:
+## 🚀 Asosiy loyihalarim
 
-### 💊 Shifo-pro  
-*"Shifo – faqat dorida emas, tizimda ham bo‘lishi kerak".*  
-Bu loyiha sanatoriy va tibbiy muassasalar uchun to‘liq boshqaruv platformasi:  
-Bemorlar ro‘yxati, xizmatlar, xona bron qilish, moliyaviy hisobotlar va kassa boshqaruvi bir joyda jamlangan.
-
-### 🧓 KindCare  
-*"Mehr — bu xizmat, parvarish — bu tizim".*  
-Keksalar uchun mo‘ljallangan parvarish tizimi. Har bir bemorning ahvoli, xizmatlar tarixi, va qolish muddati bilan boshqariladi.
-
-### 📰 Amirablog  
-Blog yozish — bu fikrni kodga aylantirish.  
-Foydalanuvchilar ro‘yxatdan o‘tishi, maqola yozishi, ko‘rishi, izoh qoldirishi mumkin bo‘lgan zamonaviy blog platformasi.
+- 💊 **Shifo-pro** — dardga davo topishda tizimning ham o‘rni borligini ko‘rsatgan boshqaruv ilovasi.  
+- 🧓 **KindCare** — mehr-u e'tibor bilan keksalarimizga xizmat qiluvchi dastur.  
+- 📰 **Amirablog** — fikrlarimni so‘zga, so‘zlarni kodga aylantirgan zamonaviy blog platformasi.
 
 ---
 
-## 🧠 Men kimman?
+## 🛠️ Ishlaydigan texnologiyalarim
 
-Men — orzusiga dasturlash bilan yo‘l topgan, loyihalarni kodlar bilan ifodalashga intilayotgan, har bir satrni maqsad bilan yozadigan ijodkorman. Har kuni yangilik o‘rganishga, mukammallikka intilishga harakat qilaman.
-
-- 👨‍💻 Frontend sohasida Vue.js, TailwindCSS va JavaScript imkoniyatlarini mukammal o‘zlashtiryapman  
-- 🏥 Sanatoriylar, tibbiyot markazlari va xizmat ko‘rsatish sohalari uchun avtomatlashtirilgan ilovalar yaratmoqdaman  
-- 💡 Interfeysni chiroyli qilish emas, balki **intuitiv va foydalanuvchiga qulay qilish** — mening ustuvorligim  
-- 🔄 Backend logikani tushunib ishlata olaman — REST API va ma’lumotlar bazasi bilan ishlash tajribam bor  
+Vue.js, TailwindCSS, Node.js, REST API, MySQL, Git
 
 ---
 
-## ⚒️ Qaysi texnologiyalar bilan ishlayman?
+## 📫 Muloqotga chiqmoqchi bo‘lsangiz
 
-```bash
-🖼️ Frontend:   Vue.js (Composition API), TailwindCSS, HTML5, SCSS  
-🧠 Backend:    Node.js (Express), REST API  
-🗄️ Ma'lumotlar: MySQL, Firebase, JSON Server  
-🛠️ Asboblar:   Git, GitHub, Figma, Postman, VS Code  
+- 📧 [zufaraliyev@gmail.com](mailto:zufaraliyev@gmail.com)  
+- 💼 [GitHub](https://github.com/ZafarjonZufaraliyev)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZafarjonZufaraliyev&show_icons=true&theme=tokyonight" />
+</p>
